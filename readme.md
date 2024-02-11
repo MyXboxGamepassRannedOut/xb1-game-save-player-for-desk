@@ -1,1 +1,2 @@
-im fat and too busy not working at school and u can finish my code if u want or u could be lazy like me
+im fat and too busy not working at school and u can finish my code if u want its a uwp app that was half recoded from xbox if that helps...
+also if u havent noticed it needs fixing bc i did stuff some s**t up
